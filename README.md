@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8j7fvox8db56aip3?svg=true)](https://ci.appveyor.com/project/EsquireRider/api)
